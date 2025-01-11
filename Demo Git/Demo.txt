@@ -1,0 +1,14 @@
+Nội Dung Đầu Tiên
+<!DOCTYPE html>
+<html>
+<head>
+<title>Thông tin cá nhân</title>
+</head>
+<body>
+
+<h1>Thông tin cá nhân</h1>
+<p>Mã sinh viên : 1921050641</p>
+<P>Họ và Tên: Phạm Thanh Tú</p> 
+
+</body>
+</html>
